@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/robisys/mio-websocket.svg)](https://travis-ci.org/robisys/mio-websocket)
+
 # mio-websocket
 
 This is a WebSocket library for Rust, based on [*mio*](https://github.com/carllerche/mio) event loop.
